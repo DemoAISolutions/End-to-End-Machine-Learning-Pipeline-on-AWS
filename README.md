@@ -1,4 +1,4 @@
-# End-to-End-Machine-Learning-CI-CD-Pipeline-on-AWS
+# End-to-End-Machine-Learning-Pipeline-on-AWS
 
 ## Continuous Integration and Continous Depoloyment
 
